@@ -6,8 +6,9 @@ The idea behind this case is to protect the components in transit, and to provid
 
 ## Files
 
-* [bpmc-fluxus-bottom.stl](bpmc-fluxus-bottom.stl): Case bottom, including pass-through for power connection.
-* [bpmc-fluxus-lid.stl](bpmc-fluxus-lid.stl)Case bottom, including a clip for a 9v battery, and a pass-through for the power cable.
+* [bpmc-fluxus-bottom.stl](bpmc-fluxus-bottom.stl) Case bottom, including pass-through for power connection.
+* [bpmc-fluxus-lid.stl](bpmc-fluxus-lid.stl) Case bottom, including a clip for a 9v battery, and a pass-through for the power cable.
+* [BPMC Fluxus manual and assembly instructions](https://glitchart.com/f-diy)
 
 
 
